@@ -29,27 +29,29 @@ Open your browser and go to https://localhost:8888
 
 Go to the Cyverse DE and go to 'Tools'
 
-<img src="/images/cyverse_tool.png" width=600>
+
+
+<img src="https://github.com/cyverse-vice/jupyterlab-minimal/blob/main/images/cyverse_tool.png" width=600>
 
 <br/>
 
-<img src="/images/cyverse_tool2.png" width=200>
+<img src="https://github.com/cyverse-vice/jupyterlab-minimal/blob/main/images/cyverse_tool2.png" width=200>
 
 <br/>
 
 Fill out the tool information as such
 
-<img src="/images/cyverse_tool3.png" width=400>
+<img src="https://github.com/cyverse-vice/jupyterlab-minimal/blob/main/images/cyverse_tool3.png" width=400>
 
-<img src="/images/cyverse_tool4.png" width=400>
+<img src="https://github.com/cyverse-vice/jupyterlab-minimal/blob/main/images/cyverse_tool4.png" width=400>
 
-<img src="/images/cyverse_tool5.png" width=400>
+<img src="https://github.com/cyverse-vice/jupyterlab-minimal/blob/main/images/cyverse_tool5.png" width=400>
 
 <br/>
 
 Go to the 'Tools' under the Admin. You need admin privaledges for this to be visible. 
 
-<img src="/images/cyverse_tool6.png" width=400>
+<img src="https://github.com/cyverse-vice/jupyterlab-minimal/blob/main/images/cyverse_tool6.png" width=400>
 
 ### Create a Cyverse App 
 
