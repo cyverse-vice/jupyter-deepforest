@@ -1,7 +1,7 @@
 # jupyter-deepforest
 
 
-This repository contains information to create a docker image for jupyterlab. The main python library that is installed is [DeepForest](https://deepforest.readthedocs.io/en/latest/). It has been created to utilize GPUs in Cyverse Discover Environment.
+This repository contains information to create a docker image for jupyterlab. The main python library that is installed is [DeepForest](https://deepforest.readthedocs.io/en/latest/). It has been created to utilize GPUs in Cyverse Discover Environment. Also added to this docker image is a script in `entry.sh` that copies your .ssh and .gitconfig files from you personal data store to the working directory of the docker image. 
 
 ### Dockerfile
 
